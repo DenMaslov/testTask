@@ -24,7 +24,9 @@
 * TREATMENT - for users the chance is **33.3%**, but if inactive player is **Computer** and it has **low** health (less **35%**) chance is enhanced to around **70%**.
 * Information about: health of players before manipulation, whose turn if, if chance of treatment for computer is enhanced, chosen action and points and result health of players - **is printed each iteration**.
 * If health of any player is lower or equal 0. The game is stopped and prints the name of winner.
-
+* Random choice of turn of players.
+* Random choice of action.
+* Random choice of points in specific range.
 
 #### Screenshot
 

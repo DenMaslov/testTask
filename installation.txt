@@ -1,0 +1,8 @@
+INSTALLATION:
+  git clone https://github.com/DenMaslov/testTask.git
+  cd ./testTask
+  python main.py
+  
+TESTED WITH:
+  Windows 10
+  python 3.9

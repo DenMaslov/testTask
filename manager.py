@@ -118,7 +118,7 @@ class GameManager():
     def _log(self):
         """Prints main information about current move"""
         print(f'It\'s  {self._activePlayer.name()}\'s turn ... ')
-        print(f'Bigger chance of computer\'s treatment: {self._isBiggerCureChance}')
+        print(f'Bigger chance of treatment: {self._isBiggerCureChance}')
         print(f'Chosen action: {self._currentAction} with {self._points} points')
         print('Result health points - ', end=' ')
         self._show_health()

@@ -1,5 +1,5 @@
-# testTask
-Simulation of the game
+# Test task "Simulation of the game"
+
 
 ### INSTALLATION:
 1. git clone https://github.com/DenMaslov/testTask.git

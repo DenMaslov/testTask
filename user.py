@@ -9,7 +9,7 @@ class User:
     def __init__(self, name: str = 'User', is_computer: bool = False):
         self.__name = name
         self.__is_computer = is_computer
-
+ 
     def add_health(self, amount: int):
         """Increase health on amount points"""
         self.__health += amount
